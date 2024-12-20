@@ -16,7 +16,7 @@ Kode akan memuat dataset, menampilkan informasi awal, dan membersihkannya:
     Menghapus baris tidak relevan atau kosong.
     Mengubah nama kolom menjadi lebih mudah diakses.
     Mengonversi data numerik yang tidak konsisten.
-# 4. 4. Menyimpan Dataset Bersih
+# 4. Menyimpan Dataset Bersih
 Dataset yang sudah bersih akan disimpan kembali ke file CSV baru (cleaned_teleponseluler_v2.csv). Pastikan lokasi penyimpanan memiliki izin menulis.
 # 5. Melakukan Regresi Linear 
 a. Tahun 2021
